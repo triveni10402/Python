@@ -5,4 +5,4 @@ def Calculate_function(numbers):
 
 number=[10 , 20 ,30]
 result=Calculate_function(number)
-print("Average",result)
+# print("Average",result)
